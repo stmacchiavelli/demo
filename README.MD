@@ -1,6 +1,6 @@
 # South African Mobile Numbers Validator #
 
-java 1.8 + String boot 2 + JPA + mysql
+java 1.8 + Spring boot 2 + JPA + mysql
 
 
 
